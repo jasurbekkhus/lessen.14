@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.logo{
+    padding-left: 90px;
+    color: black;
+}
+.item{
+    list-style: none;
+    color: black;
+    margin-left: 30px;
+}
+.item1{
+    list-style: none;
+    color: black;
+    margin-left: 35px;
+}
+.collection{
+    display: flex;
+    margin-left: 570px;
+}
+.footer{
+    width: 100%;
+    height: 360px;
+    background-image: url(./go.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    color: white;
+    text-align: center;
+    padding-top: 85px;
+}
+.desk{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    width: 35%;
+    margin: auto;
+}
+.wrapper{
+    display: flex;
+    padding-left: 190px;
+    padding-top: 30px;
+}
+.box:hover{
+    background-color: dodgerblue;
+}
+.circle{
+    width: 110px;
+    height: 100px;
+    background-color: dodgerblue;
+    display: flex;
+    border-radius: 100%;
+    margin-bottom: 10px;
+    padding-top: 30px;
+    margin-right: 100px;
+}
+.icons{
+    color: rgb(96, 6, 242);
+    display: flex;
+    font-size: 50px;
+    padding-left: 25px;
+}
+.pi{
+    color: black;
+    width: 25%;
+    padding-left: 110px;
+}
+.pu{
+    color: rgb(24, 2, 221);
+    display: flex;
+    padding-bottom: 40px;
+}
+

@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    width: 95%;
+    height: 80px;
+    margin-left: 40px;
+    background-color: rgb(156, 2, 251);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 35px;
+}
+.icons{
+    color: rgb(0, 26, 255);
+    display: flex;
+    font-size: 30px;
+    
+}
+.logo{
+    padding-left: 10px;
+}
+.collection{
+    display: flex;
+    margin-left: 570px;
+}
+.item{
+    list-style: none;
+    color: black;
+    margin-left: 35px;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.footer{
+    width: 95%;
+    height: 500px;
+    margin-left: 40px;
+    background-image: url(./apl.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    padding-top: 120px;
+    color: red;
+    padding-left: 175px;
+}
+.title1{
+    color: black;
+    padding-top: 25px;
+    padding-left: 175px;
+}
+.desk{
+    width: 30%;
+    padding-top: 30px;
+    padding-left: 175px;
+}
+.but{
+    width: 170px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 175px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+}
+.but1{
+    width: 170px;
+    height: 40px;
+    margin-left: 5px;
+    color: black;
+    background-color: transparent;
+    border-color: bisque;
+}
+.footer1{
+    width: 95%;
+    height: 150px;
+    background-color: rgb(246, 243, 237);
+    margin-left: 40px;
+    border-color: black;
+}
+.a{
+    width: 25%;
+    padding-top: 90px;
+    padding-left: 175px;
+    display: flex;
+}
+.ab{
+    width: 90%;
+    padding-left: 625px;
+    display: flex;
+}
